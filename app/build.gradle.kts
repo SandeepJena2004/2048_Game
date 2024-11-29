@@ -39,6 +39,9 @@ android {
 
 dependencies {
 
+
+    implementation ("androidx.constraintlayout:constraintlayout:2.0.4")
+    implementation ("org.jetbrains.kotlin:kotlin-stdlib:1.5.21")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("com.google.android.material:material:1.9.0")
