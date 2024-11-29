@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FAF8EF</color>
+    <color name="tile_empty">#CDC1B4</color>
+</resources>
